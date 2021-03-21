@@ -1,6 +1,9 @@
-Ivan Koryshkin (@culitz) 
-C/C++, Python web developer
+<p><h3>Ivan Koryshkin</h3> (@culitz) </p>
 
-contacts:
-  ivan.koryshkin@gmail.com
-  x4976976e (telegram)
+<p> C/C++, Python web developer </p>
+
+<h4> contacts: </h4>
+  <ul>
+  <li>ivan.koryshkin@gmail.com</li>
+  <li>x4976976e (telegram) </li>
+  </ul>
