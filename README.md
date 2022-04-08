@@ -5,5 +5,5 @@
 <h4> contacts: </h4>
   <ul>
   <li>ivan.koryshkin@gmail.com</li>
-  <li>x4976976e (telegram) </li>
+  <li>https://t.me/IvanKoryshkin</li>
   </ul>
